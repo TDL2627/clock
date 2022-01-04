@@ -1,0 +1,29 @@
+.watch{
+    text-align: center !important;
+    border: 2px solid black;
+    width: 500px;
+    margin-left: 35%;
+    font-size: 120px;
+    font-family: zainunesaFont;
+    height: 150px;
+    padding-top: 50px;
+}
+#outro{
+    text-align: center;
+}
+@font-face {
+    font-family: zainunesaFont;
+    src: url(/fonts/digital-7.ttf);
+}
+#pic1{
+    margin-left: 45%;
+    display: none;
+}
+#pic2{
+  margin-left: 45%;
+    display: none;
+}
+#pic3{
+    margin-left: 45%;
+    display: none;
+}
